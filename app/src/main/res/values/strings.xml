@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DraweNavigation</string>
+    <string name="open">DraweNavigation</string>
+    <string name="close">DraweNavigation</string>
+</resources>
