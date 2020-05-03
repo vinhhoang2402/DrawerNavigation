@@ -37,4 +37,5 @@ public class Contacts {
     public void setImage(int image) {
         Image = image;
     }
+    //ghhhfhghg
 }
